@@ -1,4 +1,4 @@
-# Implementação Lista utilizando ArrayList de forma orientada a objeto em Java.
+# Implementação Lista utilizando ArrayList em Java.
 Operações implementadas:<br>
 - 1 - Listar Nós<br>
 - 2 - Inserir Nó no início<br>
